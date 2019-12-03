@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Consultardivida",
+            "request": "launch",
+            "mainClass": "app.Consultardivida",
+            "projectName": "terceiraavaliacao"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Menuprincipal",
+            "request": "launch",
+            "mainClass": "app.Menuprincipal",
+            "projectName": "terceiraavaliacao"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Conexacao",
+            "request": "launch",
+            "mainClass": "app.Conexacao",
+            "projectName": "terceiraavaliacao"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "terceiraavaliacao"
+        }
+    ]
+}
